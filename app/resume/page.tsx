@@ -87,7 +87,7 @@ export default function ResumePage() {
 
                     <div className="p-5 rounded-xl bg-neutral-900/40 border border-neutral-800/80 space-y-3">
                         <div className="flex flex-col md:flex-row md:justify-between md:items-center gap-1 font-mono text-sm">
-                            <span className="font-bold text-neutral-200">AIS3</span>
+                            <span className="font-bold text-neutral-200">AIS3 好厲害</span>
                             <span className="text-neutral-500 text-xs">2026 - now</span>
                         </div>
                         <div className="text-xs font-mono text-purple-400">學員</div>
